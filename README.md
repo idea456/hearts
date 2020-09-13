@@ -1,4 +1,4 @@
-## ♠️ Hearts
+## ♠️♦️♣️♥️ Hearts
 
 An intelligent agent developed with Haskell to compete against other players in the game of Hearts.
 
@@ -15,4 +15,5 @@ There will be two versions of the game:
  2. An online tournament where the player will be pitted against other AIs in
     four-player matches.
     
-
+    
+This project was developed as part of my assignment FIT2102 Programming Paradigms.
